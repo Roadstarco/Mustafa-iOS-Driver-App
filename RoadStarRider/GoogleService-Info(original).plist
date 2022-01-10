@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DATABASE_URL</key>
+	<string>https://lofty-cabinet-267422-default-rtdb.firebaseio.com/</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>https://lofty-cabinet-267422-default-rtdb.firebaseio.com/</string>
+		</dict>
+	</array>
+	<key>CLIENT_ID</key>
+	<string>234677169665-9ps346eicu5iae698g0blcbm1268l66t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.234677169665-9ps346eicu5iae698g0blcbm1268l66t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>234677169665-3olksa90932kj371g62u5qc9qo8avlj4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbYR3hgmmGwrzxGEYI6U_Z84GIg2sLPOQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>234677169665</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.myroadstar.driverr</string>
+	<key>PROJECT_ID</key>
+	<string>lofty-cabinet-267422</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lofty-cabinet-267422.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:234677169665:ios:8fdc0da8e620e88f309a00</string>
+</dict>
+</plist>

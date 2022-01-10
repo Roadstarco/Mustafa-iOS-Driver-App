@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-RoadStarRider copy/Pods-RoadStarRider copy-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/FirebaseInAppMessaging/InAppMessagingDisplayResources.bundle
+${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle
